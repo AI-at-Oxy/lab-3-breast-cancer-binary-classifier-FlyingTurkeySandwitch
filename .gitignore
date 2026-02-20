@@ -7,6 +7,7 @@ __pycache__/
 venv/
 env/
 .env/
+.venv
 
 # IDE
 .idea/
@@ -21,6 +22,8 @@ Thumbs.db
 # Output files
 training_results.png
 *.png
+mlruns/
+mlflow.db
 
 # Jupyter
 .ipynb_checkpoints/
